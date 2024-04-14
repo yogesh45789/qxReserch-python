@@ -26,3 +26,4 @@ class Ball(Turtle):
         self.goto(0,0)
         self.move_speed = 0.1
         self.bounce_X()
+        # majority of utilization ping pong game 
