@@ -12,3 +12,4 @@ video = moviepy.editor.VideoFileClip("")    # Put your file path in here
 audio = video.audio
 audio.write_audiofile('new_audio.mp3')
 
+# major fixes for all the maxing 
